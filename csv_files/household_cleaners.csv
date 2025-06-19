@@ -1,0 +1,6 @@
+timestamp,product_id,category,brand,scent,price_per_unit,units_sold
+2023-01-01 00:15:00,H300,Household Cleaners,BrandX,Lemon,5,10
+2023-01-01 01:15:00,H301,Household Cleaners,BrandY,Pine,6,5
+2023-01-02 00:15:00,H300,Household Cleaners,BrandX,Lemon,5,12
+2023-01-02 01:45:00,H302,Household Cleaners,BrandZ,Lavender,7,8
+2023-01-03 00:45:00,H301,Household Cleaners,BrandY,Pine,6,3

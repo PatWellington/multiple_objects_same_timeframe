@@ -1,0 +1,6 @@
+timestamp,product_id,category,price,quantity_sold
+2023-01-01 00:00:00,A100,Accessories,50,2
+2023-01-01 01:00:00,A101,Accessories,60,1
+2023-01-02 00:00:00,A100,Accessories,50,3
+2023-01-03 00:00:00,A102,Accessories,55,5
+2023-01-03 02:00:00,A102,Accessories,55,1

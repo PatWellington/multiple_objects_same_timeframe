@@ -1,0 +1,6 @@
+timestamp,product_id,category,size,color,price
+2023-01-01 00:30:00,C200,Clothing,L,Blue,25
+2023-01-01 01:30:00,C201,Clothing,M,Red,30
+2023-01-02 00:30:00,C200,Clothing,L,Blue,25
+2023-01-02 02:00:00,C202,Clothing,S,Black,20
+2023-01-03 01:00:00,C201,Clothing,M,Red,30
